@@ -1,0 +1,117 @@
+img {
+	border-color: #FFFFFF;
+}
+
+H1 {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	padding-left: 2px;
+}
+H2 {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	padding-left: 2px;
+}
+H3 {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	padding-left: 2px;
+}
+H4 {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	padding-left: 2px;
+}
+P {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+TD {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.rococo {
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFF;
+	background-image: url(brendan_wallpaper.jpg);
+	background-repeat: repeat-x;
+	padding: 4px;
+}
+
+.rococo a {
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFF;
+}
+
+.rococo a:hover{
+	font-style: normal;
+	color: #FF8080;
+}
+
+.red {
+	color: #FF0000;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.text16 {
+	color: #FFFFFF;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+B {
+	font-weight: bold;
+}
+I {
+	font-style: italic;
+}
+A {
+	color: #FF8080;
+	font-family: Trebuchet Ms, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+A:visited {
+	color: #CCCCCC;
+}
+
+A:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+body {
+	margin-left:0px;
+	margin-top:5px;
+	margin-right:0px;
+	margin-bottom:25px;
+	background-color: #000000;
+	background-image: url(brendan_back.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+}
+
